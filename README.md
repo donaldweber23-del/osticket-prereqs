@@ -38,7 +38,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Connect to your AZURE virtual machine using Remote Desktop Protocol. Get through sign in windows and then copy the OS zip files from the checklist in Lab 3, osTicketinstallation to your internet explorere in your virtual machine
+Login to the Manilla folder, right click on the osTicket zip files and click extract all
 </p>
 <br />
 
