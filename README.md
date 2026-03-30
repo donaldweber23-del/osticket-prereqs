@@ -28,8 +28,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Enable IIS in windows with CGI
 - Unzip and Install files
 - Open IIS and run as admin
-- Start the process of installing and configuring ticket systed
-- 
+- Start the process of installing and configuring ticket system
+- Install Heidi and create Ticket Database.
+- <img width="915" height="803" alt="image" src="https://github.com/user-attachments/assets/bf3f952b-59d8-4ac4-9659-0ba693f80d22" />
+
 
 <h2>Installation Steps</h2>
 
